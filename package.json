@@ -1,0 +1,10 @@
+{
+  "name": "arena-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Arena battle app: static front-end + Vercel serverless function for LiveKit tokens",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.4",
+    "livekit-server-sdk": "^2.6.1"
+  }
+}
